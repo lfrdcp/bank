@@ -1,0 +1,71 @@
+<?php
+
+namespace App;
+
+class DataGeneral
+{
+    public const CLIENTE_UNICO="CLIENTE_UNICO";
+    public const NOMBRE_DEL_CLIENTE="NOMBRE_DEL_CLIENTE";
+    public const CUADRANTE="CUADRANTE";
+    public const ZONA_GEO="ZONA_GEO";
+    public const RFC_DEL_CLIENTE="RFC_DEL_CLIENTE";
+    public const TELEFONO="TELEFONO";
+    public const DIRECCION_DOMICILIO_CLIENTE="DIRECCION_DOMICILIO_CLIENTE";
+    public const NUM_INTERIOR_CLIENTE="NUM_INTERIOR_CLIENTE";
+    public const NUM_EXTERIOR_CLIENTE="NUM_EXTERIOR_CLIENTE";
+    public const CP_CLIENTE="CP_CLIENTE";
+    public const COLONIA_CLIENTE="COLONIA_CLIENTE";
+    public const POBLACION_CLIENTE="POBLACION_CLIENTE";
+    public const ESTADO_CLIENTE="ESTADO_CLIENTE";
+    public const CLASIFICACION_DEL_CLIENTE="CLASIFICACION_DEL_CLIENTE";
+    public const ATRASO_MAXIMO="ATRASO_MAXIMO";
+    public const SALDO="SALDO";
+    public const MORATORIOS="MORATORIOS";
+    public const DIA_DE_PAGO="DIA_DE_PAGO";
+    public const SALDO_TOTAL="SALDO_TOTAL";
+    public const FECHA_ULTIMO_PAGO="FECHA_ULTIMO_PAGO";
+    public const IMPORTE_ULTIMO_PAGO="IMPORTE_ULTIMO_PAGO";
+    public const TELEFONO_TRABAJO="TELEFONO_TRABAJO";
+    public const DIRECCION_EMPLEO_CLIENTE="DIRECCION_EMPLEO_CLIENTE";
+    public const NUM_INTERIOR_EMPLEO_CLIENTE="NUM_INTERIOR_EMPLEO_CLIENTE";
+    public const NUM_EXTERIOR_EMPLEO_CLIENTE="NUM_EXTERIOR_EMPLEO_CLIENTE";
+    public const COLONIA_EMPLEO_CLIENTE="COLONIA_EMPLEO_CLIENTE";
+    public const POBLACION_CLIENTE_EMPLEO="POBLACION_CLIENTE_EMPLEO";
+    public const ESTADO_EMPLEO_CLIENTE="ESTADO_EMPLEO_CLIENTE";
+    public const NOMBRE_DEL_AVAL="NOMBRE_DEL_AVAL";
+    public const TELEFONO_DEL_AVAL="TELEFONO_DEL_AVAL";
+    public const DIRECCION_DEL_AVAL="DIRECCION_DEL_AVAL";
+    public const NUM_EXTERIOR_DEL_AVAL="NUM_EXTERIOR_DEL_AVAL";
+    public const NUM_COLONIA_DEL_AVAL="NUM_COLONIA_DEL_AVAL";
+    public const CP_DEL_AVAL="CP_DEL_AVAL";
+    public const POBLACION_DEL_AVAL="POBLACION DEL AVAL";
+    public const ESTADO_DEL_AVAL="ESTADO_DEL_AVAL";
+    public const TELEFONO_CELULAR="TELEFONO_CELULAR";
+    public const TELEFONO_1="TELÉFONO_1";
+    public const TELEFONO_2="TELEFONO_2";
+    public const TELEFONO_3="TELEFONO_3";
+    public const TELEFONO_4="TELEFONO_4";
+    public const TELEFONO_5="TELEFONO_5";
+    public const GERENCIA="GERENCIA";
+    public const DIRECCION_TIPO_CASA="casa";
+    public const DIRECCION_TIPO_TRABAJO="trabajo";
+    public const DIRECCION_TIPO_AVAL="aval";
+    public const NUM_INTERIOR_AVAL="NUM_INTERIOR_AVAL";
+    public const NOMBRE_GRUPO="NOMBRE_GRUPO";
+    public const ID_GRUPO="ID_GRUPO";
+    public const ENCARGADO="ENCARGADO";
+    public const TIPOSLC=1;
+    public const TIPOSCYBER=2;
+    public const EXCEL_MANUAL=3;
+    public const EXCEL_AUTOMATICO=4;
+    public const CODIGO_ACCION="CODIGO_ACCION";
+    public const CODIGO_RESULTADO="CODIGO_RESULTADO";
+    public const COMENTARIO="COMENTARIO";
+    public const ID_SCL="ID_SCL";
+    public const ESTADO_LLAMADA="ESTADO_LLAMADA";
+    public const PASAR_BASE=10;
+    public const PASAR_TELEFONOS=11;
+    public const CASA="casa";
+    public const AVAL="aval";
+    public const TRABAJO="trabajo";
+}
